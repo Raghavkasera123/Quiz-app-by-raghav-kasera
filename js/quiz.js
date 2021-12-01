@@ -51,7 +51,7 @@ restart_quiz.onclick = () => {
 }
 
 quit_quiz.onclick = () => {
-  window.open('../home.html');
+  window.open('../index.html');
 }
 
 //next_btn clicked
